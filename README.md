@@ -12,7 +12,7 @@
 ## Personal Portafolio
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Crhlb/mat281_repositorio/url?filepath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Crhlb/mat281_repositorio/master)
 
 * __Cristóbal L__ : []()
 
