@@ -12,9 +12,9 @@
 ## Personal Portafolio
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aLoNsolml/mat281_portfolio_template/master?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Crhlb/mat281_repositorio/url?filepath=lab)
 
-* __John Titor__ : [](https://www.linkedin.com/in/williamhgates/)
+* __Cristóbal L__ : []()
 
 * __Repositorio Curso__: [GitHub](https://github.com/aLoNsolml/mat281_2019S2)
 
